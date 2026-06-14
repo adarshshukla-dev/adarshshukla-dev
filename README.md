@@ -10,7 +10,7 @@
 </p>
 
 - 🚀 **Founder & Lead Developer** at ADrogigs – a localized freelancing marketplace for student talent.
-- 🔭 I’m currently working on [ADrogigs](https://github.com/adarshshukla-dev/Skill-Linkr-Student-Freelancer-Platform)
+- 🔭 I’m currently working on [Skill-Linkr-Student-Freelancer-Platform](https://github.com/adarshshukla-dev/Skill-Linkr-Student-Freelancer-Platform)
 - 💼 **Vice President** of the Entrepreneurship Cell at MIT Meerut.
 - 📫 How to reach me: **adarsh.shukla.cs.2024@gmail.com**
 
